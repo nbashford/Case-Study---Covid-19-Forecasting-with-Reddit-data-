@@ -1,7 +1,7 @@
 # Beyond the Tweet: Exploring Reddit as an Alternative Resource for Disease Forecasting
 
-Access the Case Study by viewing or downloading the file: YorkUniversityIndependantResearchProject.docx<br>
-All other files are artefacts to support the Case Study data, methodology, preprocessing, results and conclusions.
+- Access the Case Study by viewing or downloading the file: YorkUniversityIndependantResearchProject.docx<br>
+- All other files are artefacts to support the Case Study data, methodology, preprocessing, results and conclusions.
 
 ## EXECUTIVE SUMMARY 
 
