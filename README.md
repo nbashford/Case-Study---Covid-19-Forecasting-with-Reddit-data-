@@ -1,5 +1,8 @@
 # Beyond the Tweet: Exploring Reddit as an Alternative Resource for Disease Forecasting
 
+Access the Case Study by viewing or downloading the file: YorkUniversityIndependantResearchProject.docx
+All other files are artefacts to support the Case Study data, methodology, preprocessing, results and conclusions.
+
 ## EXECUTIVE SUMMARY 
 
 Disease forecasting, a crucial component of the strategic response to pandemics like Covid-19, increasingly relies on digital data, offering large-scale immediate insights, ultimately helping to save lives [1]. However, Twitters recent paywall restrictions limits this crucial resource [2], requiring exploration of alternative resources to maintain preparedness against future pandemics.
